@@ -1,0 +1,40 @@
+_repo: How-to-Know-the-FernsA-Guide-to-the-Names-Haunts-and-Habitats-of-Our-Common-Ferns_43167
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Satterlee, Marion
+    gutenberg_agent_id: '42044'
+    url: http://www.gutenberg.org/2009/agents/42044
+  - agent_name: Smith, Alice Josephine
+    gutenberg_agent_id: '42045'
+    url: http://www.gutenberg.org/2009/agents/42045
+covers:
+- cover_type: archival
+  image_path: 43167-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parsons, Frances Theodora
+    aliases:
+    - Dana, Mrs. William Starr
+    - Dana, William Starr, Mrs.
+    - Parsons, Frances Theodora Smith Dana
+    birthdate: 1861
+    deathdate: 1952
+    gutenberg_agent_id: '42043'
+    url: http://www.gutenberg.org/2009/agents/42043
+description: ''
+gutenberg_issued: '2013-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ferns -- United States -- Identification'
+- !lcc 'QK'
+title: 'How to Know the Ferns
+
+  A Guide to the Names, Haunts and Habitats of Our Common Ferns'
+url: http://www.gutenberg.org/ebooks/43167
